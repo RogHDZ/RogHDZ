@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**RogHDZ/RogHDZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy Rogelio, desarrollador de software especializado en aplicaciones web y móviles. Me gusta crear soluciones nuevas y fáciles que alegran a los usuarios. Aquí encontrarás un resumen de mi experiencia, habilidades y proyectos destacados.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
