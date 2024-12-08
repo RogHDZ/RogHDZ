@@ -1,6 +1,10 @@
 ## Saludos 👋👋👋
 
-Hola, soy Rogelio, Desarrollador de Software en aplicaciones web y móviles. Me gusta crear soluciones nuevas y fáciles que alegran a los usuarios. Aquí encontrarás un resumen de mi experiencia, habilidades y proyectos destacados.
+<p align="center">
+  <img src="https://github.com/RogHDZ/RogHDZ/blob/main/Rogelio%20Hern%C3%A1ndez%20Serafin.jpg" alt="Mi Foto" width="300" height="auto"/>
+</p>
+
+Hola, soy Rogelio Hernández Serafín, Desarrollador de Software en aplicaciones web y móviles. Me gusta crear soluciones nuevas y fáciles que alegran a los usuarios. Aquí encontrarás un resumen de mi experiencia, habilidades y proyectos destacados.
 
 correo de contacto: rogeliohernandezserafin@gmail.com
 Numero de telefono: +52 246 294 2738
