@@ -27,7 +27,11 @@ Numero de telefono: +52 246 294 2738
   Esta proyecto de la escuela consistió en una aplicacion web para poder administrar el mobiliario y herramientas que tiene el personal de la escuela a su cargo. Para hacer la aplicacion que desarrolle en equipo utilizamos el IDE de Laragon y phpmyadmin para la base de datos.
 </p>
   
-
+<h2 align="center">📄 Mi Currículum Vitae 📄</h2>
+<p align="center">
+  Puedes ver y descargar mi currículum vitae aquí: 
+  <a href="URL_DEL_PDF" target="_blank">Currículum Vitae</a>
+</p>
 
 
 
