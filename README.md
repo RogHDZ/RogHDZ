@@ -30,7 +30,7 @@ Numero de telefono: +52 246 294 2738
 <h2 align="center">📄 Mi Currículum Vitae 📄</h2>
 <p align="center">
   Puedes ver y descargar mi currículum vitae aquí: 
-  <a href="URL_DEL_PDF" target="_blank">Currículum Vitae</a>
+  <a href="https://github.com/RogHDZ/RogHDZ/blob/b6f88fc30d006cea61a56ca77496452620c7869d/Rogelio%20hdz%20cv.pdf" target="_blank">Currículum Vitae</a>
 </p>
 
 
